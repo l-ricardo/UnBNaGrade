@@ -1,5 +1,4 @@
 # UnB na grade
-
 Esse é o um projeto com o objetivo de criar uma plataforma interativa para o planejamento da grade horária dos estudantes da Universidade de Brasília. Ajudando assim na redução do tempo que os estudantes gastam planejando em quais turmas se matricular para evitar disciplinas com horários conflitantes e local inviável.
 
 ## Progresso
