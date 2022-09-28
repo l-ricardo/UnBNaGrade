@@ -138,7 +138,7 @@ tabelinha = pd.DataFrame(pre_dataframe, columns = cabecalho_dataframe)
 
 
 # Salvando dataframe
-tabelinha.to_csv('tabelinha.csv')
+tabelinha.to_csv('application/data/tabelinha.csv')
 
 
 # ! ERROS QUE APARECEM NO TERMINAL E EU NAO SEI O QUE SAO... AINDA
