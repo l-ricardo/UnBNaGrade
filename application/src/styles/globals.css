@@ -1,11 +1,11 @@
 * {
-  background-color: #dadada;
   margin: 0;
   padding: 0;
 }
 
 html,
 body {
+  background-color: #dadada;
   font-family: 'Poppins', Sans-Serif;
 }
 
