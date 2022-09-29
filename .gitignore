@@ -3,7 +3,7 @@
 # dependencies
 application/node_modules
 application/.pnp
-application.pnp.js
+application/.pnp.js
 
 # testing
 application/coverage
