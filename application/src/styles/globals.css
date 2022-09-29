@@ -1,28 +1,25 @@
-html,
-body {
-  font-family: 'Poppins', Sans-Serif;
-  background-color: #f2f2f2;
-}
-
 * {
+  background-color: #dadada;
   margin: 0;
   padding: 0;
 }
-h1 {
-  color: blue;
+
+html,
+body {
+  font-family: 'Poppins', Sans-Serif;
 }
-/* a {
-  color: inherit;
-  text-decoration: none;
-} */
 
+h1 {
+  color: #b559c5;
+  text-align: center;
+}
 
-/* @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
   }
   body {
     color: white;
-    background: black;
+    background: #282c34;
   }
-} */
+}

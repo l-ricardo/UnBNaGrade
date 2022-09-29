@@ -6,7 +6,7 @@ import styles from '../styles/Components.module.css'
 
 export default function Home() {
   return (
-        <div className={styles.container}>
+        <div>
           <Header />
           <Form />
           <Resume />
