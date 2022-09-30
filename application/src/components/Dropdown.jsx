@@ -1,4 +1,3 @@
-// import { useState } from "react"
 import Select from "react-select"
 import makeAnimated from "react-select/animated"
 
@@ -12,13 +11,14 @@ const opcoes = [
     { value: 'fga1924', label: 'Fisica' },
     { value: 'fga1254', label: 'MecSol' },
     { value: 'fga5892', label: 'Algebra' }
-  ]
+]
 
 // --------------------------------------------------
 
 export default function CaixaSelecao(){
     return (
         <Select
+        // defaultValue={} // TODO: Sicronizar valores default com o local storage para evitar que quando a pagina for recarregada o dropdown esta vazio mas o resto da pagina ainda tem conteudo. (Bug menor)
         components={makeAnimated()} // TODO: Esta causando um bug visual no primeiro item selecionado
         options={opcoes}
         isMulti
