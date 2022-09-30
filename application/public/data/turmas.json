@@ -1,0 +1,164 @@
+[
+    {
+        "nome": "Calculo",
+        "codigo": "fga0129",
+        "turmas": [
+            {
+                "professor": "jao",
+                "horario": "segunda",
+                "local": "na fazendinha",
+                "carga": "75h",
+                "vagas": "120"
+            },
+            {
+                "professor": "maria",
+                "horario": "terca",
+                "local": "na cidade",
+                "carga": "50h",
+                "vagas": "55"
+            },
+            {
+                "professor": "carla",
+                "horario": "quinta",
+                "local": "debaixo da ponte",
+                "carga": "75h",
+                "vagas": "55"
+            },
+            {
+                "professor": "maria",
+                "horario": "quinta",
+                "local": "logo ali",
+                "carga": "75h",
+                "vagas": "20"
+            },
+            {
+                "professor": "carla",
+                "horario": "sabado",
+                "local": "debaixo da ponte",
+                "carga": "75h",
+                "vagas": "35"
+            },
+            {
+                "professor": "ze",
+                "horario": "sexta",
+                "local": "na fazendinha",
+                "carga": "75h",
+                "vagas": "35"
+            }
+        ]
+    },
+    {
+        "nome": "Fisica",
+        "codigo": "fga1924",
+        "turmas": [
+            {
+                "professor": "jao",
+                "horario": "segunda",
+                "local": "na fazendinha",
+                "carga": "60h",
+                "vagas": "35"
+            },
+            {
+                "professor": "maria",
+                "horario": "terca",
+                "local": "la oh",
+                "carga": "60h",
+                "vagas": "80"
+            },
+            {
+                "professor": "carla",
+                "horario": "quinta",
+                "local": "debaixo da ponte",
+                "carga": "60h",
+                "vagas": "35"
+            },
+            {
+                "professor": "ze",
+                "horario": "segunda",
+                "local": "num canto qualquer",
+                "carga": "60h",
+                "vagas": "55"
+            }
+        ]
+    },
+    {
+        "nome": "Algoritimos",
+        "codigo": "fga1234",
+        "turmas": [
+            {
+                "professor": "jao",
+                "horario": "segunda",
+                "local": "na fazendinha",
+                "carga": "45h",
+                "vagas": "55"
+            },
+            {
+                "professor": "maria",
+                "horario": "quarta",
+                "local": "na cidade",
+                "carga": "45h",
+                "vagas": "55"
+            },
+            {
+                "professor": "carla",
+                "horario": "quinta",
+                "local": "debaixo da ponte",
+                "carga": "45h",
+                "vagas": "55"
+            },
+            {
+                "professor": "ze",
+                "horario": "segunda",
+                "local": "na fazendinha",
+                "carga": "45h",
+                "vagas": "55"
+            }
+        ]
+    },
+    {
+        "nome": "Desenho Tecnico",
+        "codigo": "fga1492",
+        "turmas": [
+            {
+                "professor": "jao",
+                "horario": "segunda",
+                "local": "na fazendinha",
+                "carga": "30h",
+                "vagas": "55"
+            },
+            {
+                "professor": "maria",
+                "horario": "quarta",
+                "local": "na cidade",
+                "carga": "30h",
+                "vagas": "120"
+            }
+        ]
+    },
+    {
+        "nome": "MecSol",
+        "codigo": "fga1254",
+        "turmas": [
+            {
+                "professor": "jao",
+                "horario": "segunda",
+                "local": "na fazendinha",
+                "carga": "90h",
+                "vagas": "10"
+            }
+        ]
+    },
+    {
+        "nome": "Algebra",
+        "codigo": "fga5892",
+        "turmas": [
+            {
+                "professor": "jao",
+                "horario": "segunda",
+                "local": "na fazendinha",
+                "carga": "120h",
+                "vagas": "120"
+            }
+        ]
+    }
+]
