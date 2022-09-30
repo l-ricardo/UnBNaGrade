@@ -1,5 +1,4 @@
-
-.caixote{
+.caixote {
     max-width: 1024px;
     margin: 20px auto;
     width: 90%;
@@ -9,9 +8,9 @@
     padding: 5px 0px;
     justify-content: space-around;
     gap: 10px;
-    }
+}
 
-.tabelinha{
+.tabelinha {
     width: 98%;
     background-color: #fff;
     padding: 20px;
@@ -20,15 +19,16 @@
     max-width: 1120px;
     margin: 20px auto;
 }
+
 .cabecalho {
-text-align: start;
-border-bottom: inset;
-padding-bottom: 5px;}
+    text-align: start;
+    border-bottom: inset;
+    padding-bottom: 5px;
+}
 
 .linha {
-        padding-top: 15px;
-        word-break: break-all;
-          width: 18px;
-          height: 18px;
-      }
-      
+    padding-top: 15px;
+    word-break: break-all;
+    width: 18px;
+    height: 18px;
+}

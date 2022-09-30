@@ -4,15 +4,13 @@ import Resume from "../components/Resume"; // Contem o bloco de resumo com todas
 import Agenda from "../components/Agenda"; // Contem o bloco da agenda com os dias da semana
 
 
-
-
 export default function Home() {
-  return (
+    return (
         <div>
-          <Header />
-          <Form />
-          <Resume />
-          <Agenda />
+            <Header />
+            <Form />
+            <Resume />
+            <Agenda />
         </div>
-  )
+    )
 }

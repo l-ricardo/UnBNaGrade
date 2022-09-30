@@ -1,25 +1,25 @@
 * {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 html,
 body {
-  background-color: #dadada;
-  font-family: 'Poppins', Sans-Serif;
+    background-color: #dadada;
+    font-family: 'Poppins', Sans-Serif;
 }
 
 h1 {
-  color: #b559c5;
-  text-align: center;
+    color: #b559c5;
+    text-align: center;
 }
 
 @media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: #282c34;
-  }
+    html {
+        color-scheme: dark;
+    }
+    body {
+        color: white;
+        background: #282c34;
+    }
 }
