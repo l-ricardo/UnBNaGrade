@@ -1,6 +1,6 @@
 import Select from "react-select"
 import makeAnimated from "react-select/animated"
-import disciplinas from '../../../data/disciplinas.json';
+import disciplinas from '../../public/data/disciplinas.json';
 
 
 export default function CaixaSelecao(){
