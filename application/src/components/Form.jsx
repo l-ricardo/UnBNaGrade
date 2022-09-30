@@ -4,7 +4,7 @@ import CaixaSelecao from "./Dropdown";
 export default function Form(){
     return (
     <div className={styles.caixote}>
-        <label>Insira o codigo de uma diciplina que deseja adicionar</label>
+        <label>Selecione as disciplinas que pretende se matricular (Dica: Você pode digitar) </label>
         <CaixaSelecao/>
     </div>
     )
