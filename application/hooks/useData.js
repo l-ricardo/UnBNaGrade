@@ -80,11 +80,11 @@ export function useData() {
         T3: { Seg: [], Ter: [], Qua: [], Qui: [], Sex: [], Sáb: [] },
         T4: { Seg: [], Ter: [], Qua: [], Qui: [], Sex: [], Sáb: [] },
         T5: { Seg: [], Ter: [], Qua: [], Qui: [], Sex: [], Sáb: [] },
+        T6: { Seg: [], Ter: [], Qua: [], Qui: [], Sex: [], Sáb: [] },
         N1: { Seg: [], Ter: [], Qua: [], Qui: [], Sex: [], Sáb: [] },
         N2: { Seg: [], Ter: [], Qua: [], Qui: [], Sex: [], Sáb: [] },
         N3: { Seg: [], Ter: [], Qua: [], Qui: [], Sex: [], Sáb: [] },
         N4: { Seg: [], Ter: [], Qua: [], Qui: [], Sex: [], Sáb: [] },
-        N5: { Seg: [], Ter: [], Qua: [], Qui: [], Sex: [], Sáb: [] },
     }
 
     useEffect(() => {

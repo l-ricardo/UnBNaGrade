@@ -1,0 +1,24 @@
+{
+    "name": "REQUISITOS DE SOFTWARE",
+    "code": "FGA0172",
+    "availableClasses": [
+        {
+            "classNum": "T2",
+            "teacher": "ANDRE BARROS DE SALES",
+            "time": "35M34",
+            "location": "FGA - S6/I3",
+            "workload": "60h",
+            "classSize": 42,
+            "color": "#72a"
+        },
+        {
+            "classNum": "T3",
+            "teacher": "GEORGE MARSICANO CORREA",
+            "time": "35M34",
+            "location": "FGA - I7/S6",
+            "workload": "60h",
+            "classSize": 48,
+            "color": "#11f"
+        }
+    ]
+}

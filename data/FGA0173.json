@@ -1,0 +1,24 @@
+{
+    "name": "INTERAÇÃO HUMANO COMPUTADOR",
+    "code": "FGA0173",
+    "availableClasses": [
+        {
+            "classNum": "T1",
+            "teacher": "SERGIO ANTONIO ANDRADE DE FREITAS",
+            "time": "24M34",
+            "location": "FGA - S7/S4",
+            "workload": "60h",
+            "classSize": 60,
+            "color": "#72a"
+        },
+        {
+            "classNum": "T2",
+            "teacher": "ANDRE BARROS DE SALES",
+            "time": "35M12",
+            "location": "FGA - LAB MOCAP",
+            "workload": "60h",
+            "classSize": 42,
+            "color": "#11f"
+        }
+    ]
+}

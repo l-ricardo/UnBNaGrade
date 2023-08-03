@@ -1,0 +1,24 @@
+{
+    "name": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
+    "code": "FGA0170",
+    "availableClasses": [
+        {
+            "classNum": "T1",
+            "teacher": "TIAGO ALVES DA FONSECA",
+            "time": "26M12",
+            "location": "FGA - S4/S9",
+            "workload": "60h",
+            "classSize": 110,
+            "color": "#72a"
+        },
+        {
+            "classNum": "T2",
+            "teacher": "DANIEL SUNDFELD LIMA",
+            "time": "24M5 24T1",
+            "location": "FGA - I9",
+            "workload": "60h",
+            "classSize": 110,
+            "color": "#11f"
+        }
+    ]
+}

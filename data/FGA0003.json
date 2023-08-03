@@ -1,0 +1,24 @@
+{
+    "name": "COMPILADORES 1",
+    "code": "FGA0003",
+    "availableClasses": [
+        {
+            "classNum": "T1",
+            "teacher": "EDSON ALVES DA COSTA JUNIOR",
+            "time": "35T23",
+            "location": "FGA - I8",
+            "workload": "60h",
+            "classSize": 45,
+            "color": "#72a"
+        },
+        {
+            "classNum": "T2",
+            "teacher": "LUIS FILOMENO DE JESUS FERNANDES",
+            "time": "46M34",
+            "location": "FGA - LAB MOCAP",
+            "workload": "60h",
+            "classSize": 70,
+            "color": "#11f"
+        }
+    ]
+}

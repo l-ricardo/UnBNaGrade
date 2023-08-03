@@ -1,0 +1,24 @@
+{
+    "name": "SISTEMAS DE BANCO DE DADOS 1",
+    "code": "FGA0137",
+    "availableClasses": [
+        {
+            "classNum": "T1",
+            "teacher": "VANDOR ROBERTO VILARDI RISSOLI",
+            "time": "35T23",
+            "location": "FGA - I10",
+            "workload": "60h",
+            "classSize": 80,
+            "color": "#72a"
+        },
+        {
+            "classNum": "T2",
+            "teacher": "MAURICIO SERRANO",
+            "time": "26M12",
+            "location": "FGA - I6",
+            "workload": "60h",
+            "classSize": 49,
+            "color": "#11f"
+        }
+    ]
+}

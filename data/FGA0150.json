@@ -1,0 +1,51 @@
+{
+    "name": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+    "code": "FGA0150",
+    "availableClasses": [
+        {
+            "classNum": "T4",
+            "teacher": "DIOGO CAETANO GARCIA",
+            "time": "24T45",
+            "location": "FGA - S2/I1",
+            "workload": "60h",
+            "classSize": 35,
+            "color": "#72a"
+        },
+        {
+            "classNum": "T6",
+            "teacher": "RAFAEL RODRIGUES DA SILVA",
+            "time": "24T45",
+            "location": "FGA - S2/S6",
+            "workload": "60h",
+            "classSize": 60,
+            "color": "#11f"
+        },
+        {
+            "classNum": "T7",
+            "teacher": "ARTUR ELIAS DE MORAIS BERTOLDI",
+            "time": "24T45",
+            "location": "FGA - S2/S5",
+            "workload": "60h",
+            "classSize": 45,
+            "color": "#f2f"
+        },
+        {
+            "classNum": "T8",
+            "teacher": "JULIANA PETROCCHI RODRIGUES",
+            "time": "24T45",
+            "location": "FGA - S2",
+            "workload": "60h",
+            "classSize": 35,
+            "color": "#931"
+        },
+        {
+            "classNum": "T9",
+            "teacher": "RICARDO AJAX DIAS KOSLOSKI",
+            "time": "24T45",
+            "location": "FGA - S2/I4",
+            "workload": "60h",
+            "classSize": 35,
+            "color": "#ff4"
+        }
+    ]
+}

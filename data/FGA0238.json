@@ -1,0 +1,24 @@
+{
+    "name": "TESTES DE SOFTWARE",
+    "code": "FGA0238",
+    "availableClasses": [
+        {
+            "classNum": "T1",
+            "teacher": "ELAINE VENSON",
+            "time": "35T23 ",
+            "location": "FGA - S10",
+            "workload": "60h",
+            "classSize": 80,
+            "color": "#72a"
+        },
+        {
+            "classNum": "T2",
+            "teacher": "ELAINE VENSON",
+            "time": "35T45 ",
+            "location": "FGA - S9/I10",
+            "workload": "60h",
+            "classSize": 80,
+            "color": "#11f"
+        }
+    ]
+}
